@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Week Time Table</title>
+    </head>
+    <body>
+        <h2>School Time Table</h2>
+        <table border="10" rules="all" cellspacing="300" height="500" width="500" >
+        
+            <tr align="center">
+                
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                
+            </tr>
+
+            <tr align="center">
+                <td>English</td>
+                <td>Telugu</td>
+                <td>Hindi</td>
+                <td>Maths</td>
+                <td>Science</td>
+                <td>Social</td>
+                
+            </tr>
+
+            <tr align="center">
+                <td>Maths</td>
+                <td>Science</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Hindi</td>
+                <td>Telugu</td>
+                
+            </tr>
+
+            <tr align="center">
+                <td>Maths</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Science</td>
+                <td>Hindi</td>
+                <td>Telugu</td>
+                
+            </tr>
+
+            <tr align="center">
+                <td>Maths</td>
+                <td>Science</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Hindi</td>
+                <td>Telugu</td>
+                
+            </tr>
+
+            <tr align="center">
+                <td>Maths</td>
+                <td>Telugu</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Hindi</td>
+                <td>Science</td>
+                
+            </tr>
+
+            <tr align="center">
+                <td>Maths</td>
+                <td>Science</td>
+                <td>English</td>
+                <td>Social</td>
+                <td>Hindi</td>
+                <td>Telugu</td>
+                
+            </tr>
+            
+</table>
+
+        
+    </body>
+</html>  
